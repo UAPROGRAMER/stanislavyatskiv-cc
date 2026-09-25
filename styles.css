@@ -1,0 +1,19 @@
+.my-bg {
+  background-image: url("./images/chars.png");
+  background-repeat: repeat;
+  background-color: black;
+}
+
+.my-border {
+  border-style: solid;
+  border-color: gray;
+  border-radius: 10px;
+}
+
+.my-div {
+  background-color: black;
+}
+
+.my-text {
+  color: azure;
+}
