@@ -1,5 +1,6 @@
 .my-bg {
-  background-image: url("./images/chars.png");
+  background-image: url("https://stanislavyatskiv.cc/images/chars.png"),
+    url("./images/chars.png");
   background-repeat: repeat;
   background-color: black;
 }
