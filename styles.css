@@ -18,3 +18,30 @@
 .my-text {
   color: azure;
 }
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: black;
+}
+
+div {
+  text-align: justify;
+}
+
+.my-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030;
+}
