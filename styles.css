@@ -11,12 +11,16 @@
   border-radius: 10px;
 }
 
+.my-round {
+  border-radius: 6px;
+}
+
 .my-div {
   background-color: black;
 }
 
 .my-text {
-  color: azure;
+  color: white;
 }
 
 ::-webkit-scrollbar {
