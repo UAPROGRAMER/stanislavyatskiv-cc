@@ -39,8 +39,12 @@
   background: black;
 }
 
-div {
+.my-div-justify {
   text-align: justify;
+}
+
+.my-div-left {
+  text-align: left;
 }
 
 .my-header {
